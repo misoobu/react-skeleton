@@ -3,7 +3,7 @@ var plumber = require("gulp-plumber");
 var stylus = require("gulp-stylus");
 var concat = require("gulp-concat");
 var autoprefixer = require("gulp-autoprefixer");
-var sourcemaps = require('gulp-sourcemaps');
+var sourcemaps = require("gulp-sourcemaps");
 var config = require("../config").stylus;
 
 gulp.task("stylus", function () {
