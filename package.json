@@ -1,5 +1,4 @@
 {
-  "scripts": {},
   "devDependencies": {
     "gulp": "^3.8.11",
     "gulp-autoprefixer": "^2.1.0",
